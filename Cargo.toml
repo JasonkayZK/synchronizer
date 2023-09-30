@@ -1,0 +1,11 @@
+[package]
+name = "synchronizer"
+version = "0.1.0"
+edition = "2021"
+description = "A crdt-based library using for synchronizing data between multiple devices."
+repository = "https://github.com/JasonkayZK/synchronizer"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
